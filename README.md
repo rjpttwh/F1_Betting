@@ -1,1 +1,1 @@
-# F1_Betting
+# F1_Betting is a project written by me. I noticed that skybets has multiple "request a bet" catergories. In these are bets, much like accumulators, that require multiple coditions be met, but they come with competitive odds, such as 11/1, 33/1, and 50/1. This piece of code scrapes bets from the skybets website (for the most upcomming Grand Prix) and then filters through the bets using a driver's average placement +/-2 to calcualte if the bet is appropriate for investing in. 
